@@ -13,8 +13,8 @@
  vim ~/.gitconfig
 ------
 [user]
-        email = you@example.com
-        name = Your Name
+        email = jiubugaosuni@gtv.com
+        name = jiubugaosuni
 ```
 
 2. 确保**clone**或**fork**的Repo，在提交commit之前，**一定检查项目下的git配置，无个人身份特征！！！**
@@ -22,8 +22,8 @@
 vim ./.git/config
 ------
 [user]
-        name = houliangping
-        email = houliangping@gov.cn
+        name = jiubugaosuni
+        email = jiubugaosuni@gtv.cn
 ```
 
 <h3>一定要检查第三步，不然你的大名可能被暴露在commits的历史记录中！！</h3>
