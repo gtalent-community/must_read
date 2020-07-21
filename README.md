@@ -23,7 +23,7 @@ vim ./.git/config
 ------
 [user]
         name = jiubugaosuni
-        email = jiubugaosuni@gtv.cn
+        email = jiubugaosuni@gtv.com
 ```
 
 <h3>一定要检查第三步，不然你的大名可能被暴露在commits的历史记录中！！</h3>
