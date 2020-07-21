@@ -28,4 +28,4 @@ vim ./.git/config
 
 <h3>一定要检查第三步，不然你的大名可能被暴露在commits的历史记录中！！</3>
 
-最后，祝在社区玩的开心。:pray: :pray: :pray: 
+最后，祝你在社区玩的开心。:pray: :pray: :pray: 
