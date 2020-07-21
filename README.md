@@ -26,6 +26,6 @@ vim ./.git/config
         email = jiubugaosuni@gtv.com
 ```
 
-<h3>一定要检查第三步，不然你的大名可能被暴露在commits的历史记录中！！</h3>
+<h3>一定要检查第三步，不然你的大名可能被暴露在commits的历史洪流中！！</h3>
 
 最后，祝你在社区玩的开心。:pray: :pray: :pray: 
