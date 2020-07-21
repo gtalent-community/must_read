@@ -6,7 +6,7 @@
    
 **第二步:** 如果想申请加入 organization，请在 <a href="https://discord.gg/rUA99Qd"><img src="https://img.shields.io/badge/discord-join-black" alt="G-Talent discord"></a>中发送github账号的邮箱给 *Billy/中原佛手#0054* 战友:pray: :pray: 。
 
-**第三步:** 你要为G-Talent开源社区贡献代码，请按下面2点检查本地git的配置
+**第三步:** 如果你想为G-Talent开源社区贡献代码，请按下面2点检查本地git的配置
    
 1. 确保git的全局配置中name与email**无个人身份特征！！！**
 ```shell
