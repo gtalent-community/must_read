@@ -4,7 +4,7 @@
 
 **第一步:** 首先，在你点击任何操作前(star/fork/提issue)，请确保你登陆的github账号没有任何可被其他人识别身份特征，**强烈建议注册全新github账号再来参与社区！！！**
    
-**第二步:** 如果想申请加入 organization，请在 <a href="https://discord.gg/rUA99Qd"><img src="https://img.shields.io/badge/discord-join-black" alt="G-Talent discord"></a>中发送github账号的邮箱给 *Billy/中原佛手#0054* 战友:pray: :pray: 。
+**第二步:** 如果想申请加入 organization，请在 <a href="https://discord.gg/rUA99Qd"><img src="https://img.shields.io/badge/discord-join-black" alt="G-Talent discord"></a>中通过战友验证后，发送github账号的邮箱给 *Billy/中原佛手#0054* 战友:pray: :pray: 。
 
 **第三步:** 如果你想为G-Talent开源社区贡献代码，请按下面2点检查本地git的配置
    
